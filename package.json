@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.5.0",
 	"author": "Michal Zagrodzki",
 	"description": "FCC backend exercises.",
 	"keywords": [ "freecodecamp", "backend", "boilerplate" ],
