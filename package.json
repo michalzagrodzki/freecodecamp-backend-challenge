@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Michal Zagrodzki",
+	"description": "FCC backend exercises.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
