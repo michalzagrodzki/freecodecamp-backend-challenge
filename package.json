@@ -3,6 +3,7 @@
 	"author": "Michal Zagrodzki",
 	"description": "FCC backend exercises.",
 	"keywords": [ "freecodecamp", "backend", "boilerplate" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
